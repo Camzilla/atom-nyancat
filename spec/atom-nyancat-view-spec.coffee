@@ -1,4 +1,4 @@
-AtomNyancatView = require '../lib/atom-nyancat-view'
+AtomNyancatView = require '../lib/nyancat-view'
 
 describe "AtomNyancatView", ->
   it "has one valid test", ->

@@ -1,17 +1,17 @@
 {
-  "name": "nyancat",
-  "main": "./lib/atom-nyancat",
-  "version": "0.14.0",
-  "description": "Adds a nyancat file progress indicator to the Atom status bar",
+  "name": "cams-nyan-cat",
+  "main": "./lib/nyancat",
+  "version": "1.0.0",
+  "description": "Adds a Nyan Cat editor progress indicator to the Atom status bar",
   "keywords": [
     "nyancat",
     "atom",
     "status bar"
   ],
-  "repository": "https://github.com/dz/atom-nyancat",
+  "repository": "https://github.com/Camzilla/atom-nyancat",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.47.0 <2.0.0"
   },
   "consumedServices": {
     "status-bar": {

@@ -1,0 +1,39 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.nyan-cat {
+  &__container {
+    padding-top: 3px!important;
+  }
+
+  &__trail {
+    position: relative;
+    display: inline-block;
+    width: 9px;
+    background-image: url(atom://atom-nyancat/assets/trail.gif);
+    background-repeat: repeat-x;
+    height: 17px;
+  }
+
+  &__ass {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 11px;
+    height: 17px;
+    background-image: url(atom://atom-nyancat/assets/ass.png);
+    background-repeat: no-repeat;
+  }
+
+  &__head {
+    position: relative;
+    display: inline-block;
+    width: 18px;
+    height: 17px;
+    background-image: url(atom://atom-nyancat/assets/head.png);
+    background-repeat: no-repeat;
+  }
+}

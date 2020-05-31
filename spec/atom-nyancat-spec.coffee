@@ -1,4 +1,4 @@
-AtomNyancat = require '../lib/atom-nyancat'
+AtomNyancat = require '../lib/nyancat'
 
 # Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 #
