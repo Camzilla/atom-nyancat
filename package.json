@@ -1,7 +1,7 @@
 {
   "name": "cams-nyan-cat",
   "main": "./lib/nyancat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a Nyan Cat editor progress indicator to the Atom status bar",
   "keywords": [
     "nyancat",

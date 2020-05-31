@@ -24,3 +24,5 @@
 * Refactored main package to javascript from coffee script
 * Updated functions and removed redundant code
 * Moved graphics to image
+
+## 1.0.1 - Fixed img urls
